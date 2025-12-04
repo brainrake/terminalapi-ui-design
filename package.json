@@ -1,0 +1,13 @@
+{
+  "name": "ui-design-plan-presentation",
+  "version": "1.0.0",
+  "description": "UI Design Plan",
+  "scripts": {
+    "build": "marp presentation.md"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@marp-team/marp-cli": "^4.2.3"
+  }
+}
